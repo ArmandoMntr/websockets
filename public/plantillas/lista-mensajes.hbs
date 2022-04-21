@@ -1,0 +1,29 @@
+<style>
+    #mail {
+        color:blue;
+        font-weight: bolder;
+        margin-left: 2px;
+    }
+    #date {
+        color: maroon;
+        margin-left: 2px;
+        }
+    #msg {
+        font-style: italic;
+        color: green;
+        margin-left: 2px;
+    }
+    #div {
+        display: flex;
+    }
+</style>
+
+{{#if mensajes.length}}
+    {{#each mensajes}}
+        <div id="div">
+        <p id="mail">{{this.email}}</p> <p id="date">[{{this.date}}]</p> <p id="msg">{{this.msg}}</p>
+        </div>
+    {{/each}}
+    </table>
+</div>
+{{/if}}

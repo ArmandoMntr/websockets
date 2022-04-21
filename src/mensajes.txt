@@ -1,0 +1,68 @@
+[
+  {
+    "email": "mail@mail.com",
+    "msg": "un mensaje",
+    "id": 1,
+    "date": "20/4/2022 21:20:04"
+  },
+  {
+    "email": "mail@mail.com",
+    "msg": "un mensaje",
+    "id": null,
+    "date": "20/4/2022 21:20:05"
+  },
+  {
+    "email": "mail@mail.com",
+    "msg": "un mensaje",
+    "id": null,
+    "date": "20/4/2022 21:20:06"
+  },
+  {
+    "email": "mail@mail.com",
+    "msg": "un mensaje",
+    "id": null,
+    "date": "20/4/2022 21:20:07"
+  },
+  {
+    "email": "mail2@mail.com",
+    "msg": "otro mensaje",
+    "id": null,
+    "date": "20/4/2022 21:20:14"
+  },
+  {
+    "email": "mail2@mail.com",
+    "msg": "otro mensaje",
+    "id": null,
+    "date": "20/4/2022 21:20:15"
+  },
+  {
+    "email": "mail2@mail.com",
+    "msg": "otro mensaje",
+    "id": null,
+    "date": "20/4/2022 21:20:17"
+  },
+  {
+    "email": "mail2@mail.com",
+    "msg": "otro mensaje",
+    "id": null,
+    "date": "20/4/2022 21:20:18"
+  },
+  {
+    "email": "mail2@mail.com",
+    "msg": "otro mensaje",
+    "id": null,
+    "date": "20/4/2022 21:20:18"
+  },
+  {
+    "email": "mail2@mail.com",
+    "msg": "otro mensaje",
+    "id": null,
+    "date": "20/4/2022 21:20:19"
+  },
+  {
+    "email": "mail2@mail.com",
+    "msg": "otro mensaje",
+    "id": null,
+    "date": "20/4/2022 21:20:19"
+  }
+]
